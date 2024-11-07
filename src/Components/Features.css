@@ -1,0 +1,36 @@
+.main{
+    height:100vh;
+    width: 100vw;
+    background-color: #0000;
+}
+
+.mainwrapper{
+    display: flex;
+    justify-content: space-around;
+    width: 80vw;
+    flex-wrap: nowrap;
+    margin: 150px;
+  
+
+}
+
+.minwrapper{
+    width: 250px;
+}
+.btmline{
+    height: 0.6px;
+    background-color: #c2c2c2;
+
+    
+}
+
+.btmpara{
+    font-weight: 500;
+    color:#86868B;
+    line-height: 25px;
+}
+.h4class{
+    font-weight: 600;
+    font-size: 17px;
+}
+

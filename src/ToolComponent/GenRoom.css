@@ -1,0 +1,93 @@
+.Wrapper{
+    background-color: #1D1D1F;
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    text-align: center;
+}
+
+.Room-Form{
+
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    padding: 7vw 10vw;
+    border-radius: 40px;
+}
+
+.logo img{
+        width: 9rem;
+        opacity: 90%;
+    }
+.inputs-fields{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    
+
+}
+
+
+.inputs-fields input{
+    margin: 8px;
+    padding: 7px;
+    width: 20em;
+    border: none;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.931);
+}
+
+.jointext{
+    font-family: "Montserrat", sans-serif;
+    font-weight: lighter;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.Joinbtn{
+    background-color: #0171E3;
+    padding: 7px;
+    height: 2.5em;
+    width: 10em;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    
+   
+    
+}
+
+.btmtext{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btmpara{
+    margin: 30px 5px;
+}
+
+.New-Room{
+    color: #0171E3;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btnlinks{
+    color: white;
+    
+}
+.footer{
+    margin-top: 10px;
+    font-size: 15px;
+}

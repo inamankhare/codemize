@@ -1,0 +1,18 @@
+.getStartedbtn{
+    background-color: #0171E3;
+    padding: 0.6em;
+    height: 2.5em;
+    width: 9vw;
+    border: none;
+    border-radius: 20px;
+    
+   
+    
+}
+
+.btnlink{
+    color: aliceblue;
+    text-decoration: none;
+    text-align: center;
+    font-weight:700;
+}

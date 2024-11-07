@@ -1,0 +1,11 @@
+.clientMain{
+    display: flex;
+     /* justify-content: center; */
+    align-items: center; 
+    margin-bottom:.6em;
+    margin-left: 1.5em;
+}
+
+.clientspan{
+    margin: 0 1em;
+}

@@ -1,0 +1,37 @@
+/* Custom styles for the editor component */
+.editor-container {
+    /* border: 2px solid; */
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #1D1D1F;
+    height: 75vh;
+    /* margin-left: 2px; */
+    /* position:absolute; */
+  }
+  
+  .CodeMirror {
+    height: auto;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+
+  
+
+  #realTimeEditor {
+    display: none;
+  }
+
+  .output-container{
+    margin: 10px;
+  }
+
+  .run-button{
+    background-color:#4FFA7B;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+   
+  }
+  

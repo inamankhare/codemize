@@ -1,0 +1,71 @@
+.main{
+   display: flex;
+   flex-direction: column;
+  
+   
+}
+.wrapper{
+    height: 100vh;
+    width:100vw;
+    background-color: black;
+    display: flex;
+}
+
+.side{
+    height: 100vh;
+    width: 20vw;
+    background-color: #000000;
+}
+.editor{
+    height: 100vh;
+    width: 80vw;
+    background-color: #1D1D1F;
+    border-left: 1px solid rgb(38, 38, 38);
+}
+.logo{
+    padding: 15px;
+}
+.side-mem{
+    margin: 30px;
+}
+.line{
+    height: 0.6px;
+    width: 200px;
+    background-color: #757575;
+    margin-left: 20px;
+}
+
+.btmbtn{
+   position: fixed;
+   bottom: 0;
+   display: flex;
+   flex-direction: column;
+width: 150px;
+   margin: 30px;
+   
+  
+
+
+    
+}
+
+.copyridbtn {
+   
+    background-color:#0171E3 ;
+   color: white;
+    margin:7px;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.leaveroombtn{
+    background-color: #fff;
+    margin:7px;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
