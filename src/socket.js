@@ -11,7 +11,6 @@ export const initSocket = async () => {
     'reconnectionAttempt': 'infinity',
 
     timeout: 10000,
-
     transports: ['websocket'],
 
   };
