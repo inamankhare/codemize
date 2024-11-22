@@ -19,7 +19,7 @@ const Scroller = () => {
                 trigger:".scroller",
                 scroller:"body",
                 pin:true,
-                markers:true,
+                markers:false,
                 start:"top 50%",
                 end:"top 100%",
                 scrub:1
